@@ -176,5 +176,3 @@ protocol Idol{
     }
 }
 var cuteBaby = Baby()
-cuteBaby.sing()
-

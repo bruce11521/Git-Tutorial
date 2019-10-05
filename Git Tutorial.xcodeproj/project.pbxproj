@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4EA901F4234866CB009DA107 /* NewTestSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA901F3234866CB009DA107 /* NewTestSource.swift */; };
 		4EE9FC67234780BD00138DEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EE9FC66234780BD00138DEE /* AppDelegate.swift */; };
 		4EE9FC69234780BD00138DEE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EE9FC68234780BD00138DEE /* SceneDelegate.swift */; };
 		4EE9FC6B234780BD00138DEE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EE9FC6A234780BD00138DEE /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4EA901F3234866CB009DA107 /* NewTestSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTestSource.swift; sourceTree = "<group>"; };
 		4EE9FC63234780BD00138DEE /* Git Tutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Git Tutorial.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EE9FC66234780BD00138DEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4EE9FC68234780BD00138DEE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				4EE9FC66234780BD00138DEE /* AppDelegate.swift */,
 				4EE9FC68234780BD00138DEE /* SceneDelegate.swift */,
 				4EE9FC6A234780BD00138DEE /* ContentView.swift */,
+				4EA901F3234866CB009DA107 /* NewTestSource.swift */,
 				4EE9FC6C234780BE00138DEE /* Assets.xcassets */,
 				4EE9FC71234780BE00138DEE /* LaunchScreen.storyboard */,
 				4EE9FC74234780BE00138DEE /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4EE9FC67234780BD00138DEE /* AppDelegate.swift in Sources */,
+				4EA901F4234866CB009DA107 /* NewTestSource.swift in Sources */,
 				4EE9FC69234780BD00138DEE /* SceneDelegate.swift in Sources */,
 				4EE9FC6B234780BD00138DEE /* ContentView.swift in Sources */,
 			);
